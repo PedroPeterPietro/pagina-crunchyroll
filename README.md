@@ -1,0 +1,1 @@
+Olá, estou produzindo uma versão da pagina home da crunchyroll como exercicio de html/css. Por enquanto o codigo está passando por alguns updates
